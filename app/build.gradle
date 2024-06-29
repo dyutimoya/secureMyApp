@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.dyuti.securemyproject'
+    namespace 'com.securemyapp.securemyproject'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.dyuti.securemyproject"
+        applicationId "com.securemyapp.securemyproject"
         minSdk 26
         targetSdk 34
         versionCode 1

@@ -1,8 +1,8 @@
-package com.dyuti.securemyproject;
+package com.securemyapp.securemyproject;
 
 import android.os.Bundle;
 
-import com.dyuti.securemyapplibrary.SecureNow;
+import com.securemyapp.library.SecureNow;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;

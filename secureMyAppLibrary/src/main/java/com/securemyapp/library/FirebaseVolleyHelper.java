@@ -1,4 +1,4 @@
-package com.dyuti.securemyapplibrary;
+package com.securemyapp.library;
 
 import com.android.volley.Request;
 import com.android.volley.RequestQueue;

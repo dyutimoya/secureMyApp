@@ -1,4 +1,4 @@
-package com.dyuti.securemyproject;
+package com.securemyapp.securemyproject;
 
 import android.content.Context;
 

@@ -1,4 +1,4 @@
-package com.dyuti.securemyapplibrary;
+package com.securemyapp.securemyproject;
 
 import org.junit.Test;
 

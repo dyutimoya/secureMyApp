@@ -1,4 +1,4 @@
-package com.dyuti.securemyapplibrary;
+package com.securemyapp.library;
 
 import android.app.Activity;
 import android.app.AlertDialog;
