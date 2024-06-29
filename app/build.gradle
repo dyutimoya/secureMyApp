@@ -38,6 +38,6 @@ dependencies {
     androidTestImplementation libs.ext.junit
     androidTestImplementation libs.espresso.core
 
-    //implementation project(':secureMyAppLibrary')
+    implementation project(':secureMyAppLibrary')
 
 }
