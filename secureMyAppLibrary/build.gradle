@@ -1,6 +1,7 @@
 plugins {
     alias(libs.plugins.android.library)
 }
+apply plugin: 'maven-publish'
 
 android {
     namespace 'com.dyuti.securemyapplibrary'
@@ -22,6 +23,14 @@ android {
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+publishing {
+    publications {
+        release(MavenPublication) {
+            //from components.release
+        }
     }
 }
 
